@@ -1,0 +1,152 @@
+.container{
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    height: 90vh;
+    margin-left: 100px;
+    margin-right: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(27, 66%, 92%);
+    
+}
+.section1{
+    display: flex;
+    background-color: hsl(10, 79%, 65%);
+    height: 45px;
+    width: 315px;
+    color: #ffff;
+    padding-left: 15px;
+    padding-top: 20px;
+    border-radius: 10px;
+}
+.balance{
+    font-size: 10px;
+}
+.top{
+    font-weight: 700;
+    margin-top: 5px;
+}
+.logo{
+    width: 430px;
+    height: 30px;
+    
+}
+.section2{
+    /* display: flex; */
+    /* flex-direction: column; */
+    background-color:hsl(33, 100%, 98%);
+    width: 330px;
+    height: 285px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.spend{
+    font-size: 20px;
+    color: hsl(25, 47%, 15%);
+    font-weight: 600px;
+    margin-left: 15px;
+}
+.line{
+    margin-top: 30px;
+    margin-left: 15px;
+    margin-right: 20px;
+    color: hsl(30, 19%, 89%);
+}
+.name{
+    color: hsl(28, 10%, 53%);
+    
+}
+#orange{
+    height: 30px;
+    background-color: hsl(10, 79%, 65%);
+}
+#blue{
+    background-color: hsl(10, 79%, 65%);
+    height: 60px;
+}
+#red{
+    background-color: hsl(186, 34%, 60%);
+    height: 80px;
+}
+#green{
+    background-color: hsl(10, 79%, 65%);
+    height: 50px;
+}
+#yellow{
+    background-color: hsl(10, 79%, 65%);
+    height: 40px;
+}
+#grey{
+    background-color: hsl(10, 79%, 65%); 
+    height: 70px;
+}
+#brown{
+    background-color: hsl(10, 79%, 65%);
+    height: 45px;
+}
+.type{
+    border: 0px;
+    border-radius: 5px;
+    width: 30px;
+    margin-left: 10px;
+}
+.day1{
+    padding: 15px;
+    font-size: 10px;
+}
+.day2{
+    padding: 10px;
+    font-size: 10px;
+}
+.day3{
+    padding: 14px;
+    font-size: 10px;
+}
+.day4{
+    padding: 10px;
+    font-size: 10px;
+}
+.day5{
+    padding: 17px;
+    font-size: 10px;
+}
+.day6{
+    padding: 10px;
+    font-size: 10px;
+}
+.day7{
+    padding: 17px;
+    font-size: 10px;
+}
+.section3{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.section4{
+    width: 50%;
+}
+.total{
+    font-size: 10px;
+    margin-left: 10px;
+    color: hsl(28, 10%, 53%);
+}
+.dollar{
+    font-size: 30px;
+    font-weight: 760;
+    margin-left: 10px;
+    color: hsl(25, 47%, 15%);
+}
+.percent{
+    font-size: 15px;
+    margin-left: 94px;
+    font-weight: 900;
+    margin-top: 12px;
+    color: hsl(25, 47%, 15%);
+}
+.from{
+    margin-left: 70px;
+    font-size: 10px;
+    color: hsl(28, 10%, 53%);
+}
